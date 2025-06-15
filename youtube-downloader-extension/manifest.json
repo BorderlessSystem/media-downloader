@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Downloader (Edu)",
+  "version": "1.0",
+  "description": "Extensão educacional para baixar vídeos do YouTube via backend local.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["downloads"]
+}
