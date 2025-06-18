@@ -4,7 +4,7 @@ Projeto de extensao do google para funcionar apenas em devMode (version 1.0)
 # Futuras melhorias
  - Na proxima versao (1.1), vai ter um README.md muito melhor que este.
  - Vou substituir o manual.odt por um manual.txt apenas para devs que sabem oque fazer.
- - Vou adicionar log.txt para depuraçoes de erros com data/hora local.
+ - Vou adicionar error.log para depuraçoes de erros com data/hora local.
  - Criarei uma pasta de arquivos temporarios "tmp" dentro do diretorio "downloads"
  - Vou adcionar o requirements.txt para facilitar a execuçao do back-end flask em qualquer maquina.
 
