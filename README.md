@@ -9,6 +9,6 @@ Projeto de extensao do google para funcionar apenas em devMode (version 1.0)
  - Vou adcionar o requirements.txt para facilitar a execuçao do back-end flask em qualquer maquina.
 
 # Cuidados a serem tomados
-- Nao banque o espertao em baixar este codigo e subir para produçao como extensao do google, isso ppode resultar em banimento da sua conta do google permanentemente.
+- Nao banque o espertao em baixar este codigo e subir para produçao como extensao do google, isso pode resultar em banimento da sua conta do google permanentemente.
 - Este prototipo serve apenas como aprendizado no modo desenvolvedor local. Use a sua inteligencia ao seu favor.
 - Nao costumo responder emails quanto a duvidas a respeito dos meus codigos, entao pegue o que fiz e melhore com seu esforço.
